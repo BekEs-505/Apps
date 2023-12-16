@@ -2,8 +2,8 @@
   "name": "BekEs IPA",
   "subtitle": "TrollStore IPA",
   "description": "Welcome to BekEs Repo",
-  "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/check.png",
-  "headerURL": "https://check0ver.site/wp-content/uploads/2023/11/check.png",
+  "iconURL": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/CydiaIcon.png",
+  "headerURL": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/CydiaIcon.png",
   "website": "https://BekEs-505.github.io/",
   "tintColor": "#F54F32",
   "featuredApps": [
