@@ -1,10 +1,10 @@
 {
-  "name": "Check0ver Team",
+  "name": "BekEs IPA",
   "subtitle": "TrollStore IPA",
-  "description": "Welcome to Check0ver Repo",
+  "description": "Welcome to BekEs Repo",
   "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/check.png",
   "headerURL": "https://check0ver.site/wp-content/uploads/2023/11/check.png",
-  "website": "https://check0ver.site/",
+  "website": "https://BekEs-505.github.io/",
   "tintColor": "#F54F32",
   "featuredApps": [
     
@@ -823,8 +823,8 @@
       "name": "WiFiScanner",
       "bundleIdentifier": "com.dynamicallyloaded.WiFiFoFumProJB",
       "developerName": "dynamicallyloaded",
-      "subtitle": "Detect Wi-Fi networks and find out information about them",
-      "localizedDescription": "Detect Wi-Fi networks and find out information about them",
+      "subtitle": "Detect واي فاي networks and find out information about them",
+      "localizedDescription": "Detect واي فاي networks and find out information about them",
       "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/WiFiFoFumPro_TS.png",
       "tintColor": "#F54F32",
       "screenshotURLs": [
@@ -835,7 +835,7 @@
         {
           "version": "1.1.1",
           "date": "2023-12-13",
-          "localizedDescription": "Detect Wi-Fi networks and find out information about them",
+          "localizedDescription": "Detect واي فاي networks and find out information about them",
           "downloadURL": "https://check0ver.site/wp-content/uploads/2023/11/WiFiFoFumPro_TS.ipa",
           "size": 529000,
           "minOSVersion": "14.0",
@@ -1009,18 +1009,18 @@
       }
     },
     {
-      "name": "SpeedtestVPN_Premium_5.2.1",
+      "name": "Speedtestفي بي ان _Premium_5.2.1",
       "bundleIdentifier": "com.ookla.speedtest",
-      "developerName": "SpeedtestVPN_Premium_5.2.1",
+      "developerName": "Speedtestفي بي ان _Premium_5.2.1",
       "version": "5.2.1",
       "versionDate": "2023-12-15",
-      "downloadURL": "https://ipa.cypwn.xyz/ipas/SpeedtestVPN_Premium_5.2.1.ipa",
-      "localizedDescription": "Premium Unlimited VPN",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/SpeedtestVPN_Premium_5.2.1.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Speedtestفي بي ان _Premium_5.2.1.ipa",
+      "localizedDescription": "Premium Unlimited في بي ان ",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Speedtestفي بي ان _Premium_5.2.1.png",
       "tintColor": "FFC300",
       "size": 51380224,
       "screenshotURLs": [
-        "https://ipa.cypwn.xyz/serve/screenshots/SpeedtestVPN_Premium_5.2.1/SpeedtestVPN_Premium_5.2.1-0.png"
+        "https://ipa.cypwn.xyz/serve/screenshots/Speedtestفي بي ان _Premium_5.2.1/Speedtestفي بي ان _Premium_5.2.1-0.png"
       ]
     },
     {
