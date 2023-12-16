@@ -2436,11 +2436,11 @@
       "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/656.png"
   },
     {
-      "name": "Anime Slayer",
-      "realBundleID": "com.anime.slayer",
-      "bundleID": "com.anime.slayer",
-      "bundleIdentifier": "com.anime.slayer",
-      "version": "2.4.0",
+      "name": "Video Star",
+      "realBundleID": "com.frontierdesign.videostar",
+      "bundleID": "com.frontierdesign.videostar",
+      "bundleIdentifier": "com.frontierdesign.videostar",
+      "version": "2.1.7",
       "versionDate": "2023-12-16",
       "fullDate": "",
       "size": 26423324,
@@ -2448,8 +2448,8 @@
       "downloadURL": "https://up-ipa.com/uploads/up-ipa.comVideoStar_a210b.ipa",
       "developerName": "",
       "localizedDescription": "",
-      "icon": "https://check0ver.site/wp-content/uploads/2023/11/656.png",
-      "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/656.png"
+      "icon": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/VideoStar.png",
+      "iconURL": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/VideoStar.png"
     }
   ],
   "news": [
