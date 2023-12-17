@@ -1,5 +1,5 @@
 {
-  "name": "𝙱𝙴𝙺𝙴𝚂 | بيكاس ",
+  "name": "𝐁𝐞𝐤𝐄𝐬 | بيكاس ",
   "subtitle": "TrollStore IPA",
   "description": "Welcome to BekEs Repo",
   "iconURL": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/CydiaIcon.png",
@@ -1009,7 +1009,7 @@
       }
     },
     {
-      "name": "SpeedTestVPN",
+      "name": "SpeedTestفي بي ان ",
       "bundleIdentifier": "com.ookla.speedtest",
       "developerName": "Speedtestفي بي ان _Premium_5.2.1",
       "version": "5.2.1",
