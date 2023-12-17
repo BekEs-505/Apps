@@ -2690,7 +2690,23 @@
       "localizedDescription": "",
       "icon": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/VideoStar.png",
       "iconURL": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/VideoStar.png"
-    }
+   },  
+    {
+      "name": "Bully",
+      "realBundleID": "com.rockstargames.bully",
+      "bundleID": "com.rockstargames.bully",
+      "bundleIdentifier": "com.rockstargames.bully",
+      "version": "1.03.6",
+      "versionDate": "2023-12-16",
+      "fullDate": "",
+      "size": 26423324,
+      "down": "https://omtk.xyz/IPA/Bully-HK.ipa",
+      "downloadURL": "https://omtk.xyz/IPA/Bully-HK.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "icon": "https://ipaomtk.com/wp-content/uploads/2023/02/unnamed-2-3.png",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/unnamed-2-3.png" 
+}
   ],
   "news": [
     
