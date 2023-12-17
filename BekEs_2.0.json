@@ -1,5 +1,5 @@
 {
-  "name": " BekEs | بيكاس",
+  "name": "𝙱𝙴𝙺𝙴𝚂 | بيكاس ",
   "subtitle": "TrollStore IPA",
   "description": "Welcome to BekEs Repo",
   "iconURL": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/CydiaIcon.png",
@@ -955,7 +955,7 @@
       }
     },
 	{
-      "name": "Ø¥Ø¯Ø§Ø±Ø© Ø§Ù„Ù…Ù„ÙØ§Øª (Ø­Ù…Ù‘Ù„)",
+      "name": "ادارة الملفات (حمّل)",
       "bundleIdentifier": "Alluhaybi.Hammel",
       "developerName": "Alluhaybi",
       "subtitle": "File management without ads",
@@ -1009,7 +1009,7 @@
       }
     },
     {
-      "name": "Speedtestفي بي ان _Premium_5.2.1",
+      "name": "SpeedTestVPN",
       "bundleIdentifier": "com.ookla.speedtest",
       "developerName": "Speedtestفي بي ان _Premium_5.2.1",
       "version": "5.2.1",
@@ -2116,7 +2116,7 @@
       "iconURL": "https://check0ver.site/wp-content/uploads/2023/12/512x512bb-181.jpg"
     },
     {
-      "name": "Ø§Ù„Ø§Ø³Ø·ÙˆØ±Ø© Tv",
+      "name": "Tv الاسطورة ",
       "realBundleID": "sport-apps.livesport",
       "bundleID": "sport-apps.livesport",
       "bundleIdentifier": "sport-apps.livesport",
@@ -2276,7 +2276,7 @@
       "iconURL": "https://check0ver.site/wp-content/uploads/2023/12/512x512bb-13.jpg"
     },
     {
-      "name": "Ø³Ø¨ÙˆØ±ØªÙŠÙ†Ø§",
+      "name": "سبورتينا",
       "realBundleID": "com.sport.hani",
       "bundleID": "com.sport.hani",
       "bundleIdentifier": "com.sport.hani",
@@ -2324,7 +2324,7 @@
       "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/512x512bb-11.jpg"
     },
     {
-      "name": "ÙŠÙ„Ø§ Ø¬ÙˆÙ„ - YallaGoal",
+      "name": "يلا جول - YallaGoal",
       "realBundleID": "mediatube.smartselwady.com",
       "bundleID": "mediatube.smartselwady.com",
       "bundleIdentifier": "mediatube.smartselwady.com",
@@ -2644,7 +2644,7 @@
       "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png"
     },
     {
-      "name": "Athkar - Ø£Ø°ÙƒØ§Ø±",
+      "name": "Athkar - اذكار",
       "realBundleID": "com.fares.net.athkar",
       "bundleID": "com.fares.net.athkar",
       "bundleIdentifier": "com.fares.net.athkar",
