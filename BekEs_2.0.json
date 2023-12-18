@@ -875,7 +875,7 @@
     },
 	{
       "name": "TrollDecrypt",
-      "bundleIdentifier": "com.fiore.trolldecrypt",
+      "bundleIdentifier": "com.fioreBekes.trolldecrypt",
       "developerName": "fiore",
       "subtitle": "Through it you can extract the complete application files / dylib",
       "localizedDescription": "Through it you can extract the complete application files / dylib",
@@ -888,10 +888,10 @@
       "versions": [
         {
           "version": "1.0",
-          "date": "2023-12-13",
+          "date": "2023-12-17",
           "localizedDescription": "Through it you can extract the complete application files / dylib",
           "downloadURL": "https://check0ver.site/wp-content/uploads/2023/12/TrollDecrypt.tipa",
-          "size": 529000,
+          "size": 529,
           "minOSVersion": "14.0",
           "maxOSVersion": "17.0"
         }
@@ -2677,13 +2677,13 @@
   },  
     {
       "name": "Video Star",
-      "realBundleID": "com.frontierdesign.videostar",
-      "bundleID": "com.frontierdesign.videostar",
-      "bundleIdentifier": "com.frontierdesign.videostar",
+      "realBundleID": "com.frontierdesignBekes.videostar",
+      "bundleID": "com.frontierdesignBekEs.videostar",
+      "bundleIdentifier": "com.frontierdesignBekes.videostar",
       "version": "2.1.7",
-      "versionDate": "2023-12-16",
+      "versionDate": "2023-12-17",
       "fullDate": "",
-      "size": 26423324,
+      "size": 264,
       "down": "https://up-ipa.com/uploads/up-ipa.comVideoStar_a210b.ipa",
       "downloadURL": "https://up-ipa.com/uploads/up-ipa.comVideoStar_a210b.ipa",
       "developerName": "",
@@ -3317,11 +3317,11 @@
    },
     {
       "name": "دراما التركية",
-      "realBundleID": "com.turkishDrama.rm",
-      "bundleID": "com.turkishDrama.rm",
-      "bundleIdentifier": "com.turkishDrama.rm",
-      "version": " 1.0",
-      "versionDate": "2023-12-16",
+      "realBundleID": "com.turkishDramaBekes.rm",
+      "bundleID": "com.turkishDramaBekes.rm",
+      "bundleIdentifier": "com.turkishDramaBeke.rm",
+      "version": " 1.1",
+      "versionDate": "2023-12-17",
       "fullDate": "",
       "size": 5113,
       "down": "https://omtk.xyz/IPA/DramaTiurkiyeh.ipa",
