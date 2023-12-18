@@ -420,7 +420,7 @@
       "developerName": "cokepokes",
       "subtitle": "Downgrade any application you have installed",
       "localizedDescription": "Downgrade any application you have installed",
-      "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/AppStore_TS.png",
+      "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/Appstore.png",
       "tintColor": "#F54F32",
       "screenshotURLs": [
         "https://check0ver.site/wp-content/uploads/2023/11/AppStore_TS.png",
@@ -609,7 +609,7 @@
       "developerName": "dpixel",
       "subtitle": "Repeat applications",
       "localizedDescription": "Repeat applications",
-      "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png",
+      "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/Duplicator.png",
       "tintColor": "#F54F32",
       "screenshotURLs": [
         "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png",
@@ -690,7 +690,7 @@
       "developerName": "joey-gm",
       "subtitle": "Editing Asset files and changing icon images",
       "localizedDescription": "Editing Asset files and changing icon images",
-      "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png",
+      "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/Aphrodite.png",
       "tintColor": "#F54F32",
       "screenshotURLs": [
         "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png",
@@ -744,7 +744,7 @@
       "developerName": "cpdigitaldarkroom",
       "subtitle": "Know the Bundl App",
       "localizedDescription": "Know the Bundl App",
-      "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png",
+      "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/Bundlr.png",
       "tintColor": "#F54F32",
       "screenshotURLs": [
         "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png",
@@ -879,7 +879,7 @@
       "developerName": "fiore",
       "subtitle": "Through it you can extract the complete application files / dylib",
       "localizedDescription": "Through it you can extract the complete application files / dylib",
-      "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png",
+      "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/TrollDecrypt.png",
       "tintColor": "#F54F32",
       "screenshotURLs": [
         "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png",
@@ -3088,8 +3088,8 @@
       "downloadURL": "https://check0ver.site/wp-content/uploads/2023/12/AppIndexTrollStore.tipa",
       "developerName": "",
       "localizedDescription": "",
-      "icon": "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png",
-      "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png"
+      "icon": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/AppIndex.png",
+      "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/AppIndex.png"
     },
     {
       "name": "Procreate Pocket",
