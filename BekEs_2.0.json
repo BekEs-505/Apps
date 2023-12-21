@@ -1465,22 +1465,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.liguangming.Shadowrocket.png"
     },
     {
-      "name": "AlightMotion",
-      "realBundleID": "com.alightcreative.motion",
-      "bundleID": "com.alightcreative.motion",
-      "bundleIdentifier": "com.alightcreative.motion",
-      "version": "6.1.1",
-      "versionDate": "2023-12-15",
-      "fullDate": "",
-      "size": 106133403,
-      "down": "https://github.com/apptesters-org/Repo/releases/download/09-12-2023/AlightMotion_6.1.1_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/09-12-2023/AlightMotion_6.1.1_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.alightcreative.motion.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.alightcreative.motion.png"
-    },
-    {
       "name": "Cosplay",
       "realBundleID": "cosplay.ai.art.generator",
       "bundleID": "cosplay.ai.art.generator",
