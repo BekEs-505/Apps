@@ -1,5 +1,5 @@
 {
-  "name": "𝐁𝐞𝐤𝐄𝐬 | بيكاس",
+  "name": " A BekEs | بيكاس ",
   "subtitle": "TrollStore IPA",
   "description": "Welcome to BekEs Repo",
   "iconURL": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/CydiaIcon.png",
@@ -1449,22 +1449,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.camerasideas.InstaShot.png"
     },
     {
-      "name": "Shadowrocket",
-      "realBundleID": "com.liguangming.Shadowrocket",
-      "bundleID": "com.liguangming.Shadowrocket",
-      "bundleIdentifier": "com.liguangming.Shadowrocket",
-      "version": "2.2.41",
-      "versionDate": "2023-12-15",
-      "fullDate": "",
-      "size": 17005823,
-      "down": "https://github.com/apptesters-org/Repo/releases/download/10-12-2023/Shadowrocket_2.2.41_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/10-12-2023/Shadowrocket_2.2.41_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.liguangming.Shadowrocket.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.liguangming.Shadowrocket.png"
-    },
-    {
       "name": "Cosplay",
       "realBundleID": "cosplay.ai.art.generator",
       "bundleID": "cosplay.ai.art.generator",
@@ -2657,23 +2641,7 @@
       "developerName": "",
       "localizedDescription": "",
       "icon": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/VideoStar.png",
-      "iconURL": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/VideoStar.png"
-   },  
-    {
-      "name": "Bully",
-      "realBundleID": "com.rockstargames.bully",
-      "bundleID": "com.rockstargames.bully",
-      "bundleIdentifier": "com.rockstargames.bully",
-      "version": "1.03.6",
-      "versionDate": "2023-12-16",
-      "fullDate": "",
-      "size": 26423324,
-      "down": "https://omtk.xyz/IPA/Bully-HK.ipa",
-      "downloadURL": "https://omtk.xyz/IPA/Bully-HK.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "icon": "https://ipaomtk.com/wp-content/uploads/2023/02/unnamed-2-3.png",
-      "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/unnamed-2-3.png" 
+      "iconURL": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/VideoStar.png" 
    },
     {
       "name": "WarFriends: PVP Shooter",
@@ -4196,7 +4164,7 @@
       "iconURL": "https://check0ver.site/wp-content/uploads/2023/12/512x512bb-229.jpg"
     },
     {
-      "name": "PokÃ©mon GO",
+      "name": "Pokê©mon GO",
       "realBundleID": "com.nianticlabs.pokemongo",
       "bundleID": "com.nianticlabs.pokemongo",
       "bundleIdentifier": "com.nianticlabs.pokemongo",
@@ -5783,7 +5751,7 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.squareenix.lis.png"
     },
     {
-      "name": "LEGOÂ® Ninjagoâ„¢",
+      "name": "LEGO ® Ninjago",
       "bundleID": "com.wb.LNJGO",
       "bundleIdentifier": "com.wb.LNJGO",
       "version": "2.2.1",
@@ -5798,7 +5766,7 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.wb.LNJGO.png"
     },
     {
-      "name": "LEGOÂ® Marvel Super Heroes",
+      "name": "LEGO ® Marvel Super Heroes",
       "bundleID": "com.wb.LEGOMarvel",
       "bundleIdentifier": "com.wb.LEGOMarvel",
       "version": "2.2.0",
@@ -5828,7 +5796,7 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.wb.LEGOBatman2.png"
     },
     {
-      "name": "LEGOÂ® Batmanâ„¢: Beyond Gotham",
+      "name": "LEGO ® Batman : Beyond Gotham",
       "bundleID": "com.wb.lbbg",
       "bundleIdentifier": "com.wb.lbbg",
       "version": "2.2.0",
