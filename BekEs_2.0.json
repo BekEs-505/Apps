@@ -5074,22 +5074,6 @@
       "localizedDescription": "",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/64/4f/9a/644f9a5d-9432-2670-e424-07abd395dc2f/AppProIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/64/4f/9a/644f9a5d-9432-2670-e424-07abd395dc2f/AppProIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg"
- },
-    {
-      "name": "CapCut",
-	  "realBundleID": "com.lemon.lvoverseas",
-      "bundleID": "com.lemon.lvoverseas",
-      "bundleIdentifier": "com.lemon.lvoverseas",
-      "version": "10.3.0",
-      "versionDate": "2023-12-21",
-      "fullDate": "",
-      "size": 1521,
-      "down": "https://check0ver.site/wp-content/uploads/2023/12/CapCut_10.3.0_1702392292.ipa",
-      "downloadURL": "https://check0ver.site/wp-content/uploads/2023/12/CapCut_10.3.0_1702392292.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "icon": "https://www.wizcase.com/wp-content/uploads/2022/08/CapCut-app-Logo-Transparent.png",
-      "iconURL": "https://www.wizcase.com/wp-content/uploads/2022/08/CapCut-app-Logo-Transparent.png"
   },
     {
       "name": "Suret - AI Art Generator",
@@ -8289,7 +8273,7 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/jp.co.capcom.mhssplus.png"
     },
     {
-      "name": "LEGOÂ® Star Warsâ„¢: Castaways",
+      "name": "LEGO ® Star Wars: Castaways",
       "bundleID": "com.gameloft.legostarwars",
       "bundleIdentifier": "com.gameloft.legostarwars",
       "version": "1.16.4",
