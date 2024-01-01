@@ -16,10 +16,10 @@
       "developerName": "Helium",
       "subtitle": "Adding some additions to the upper bar, such as time, charging speed, etc.",
       "localizedDescription": "Adding some additions to the upper bar, such as time, charging speed, etc.",
-      "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png",
+      "iconURL": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/Helium.png",
       "tintColor": "#F54F32",
       "screenshotURLs": [
-        "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png"
+        "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/Helium.png"
       ],
       "versions": [
         {
@@ -339,11 +339,11 @@
       "developerName": "leemin",
       "subtitle": "Add the date under the time in the top bar",
       "localizedDescription": "Add the date under the time in the top bar",
-      "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png",
+      "iconURL": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/SecondHand.png",
       "tintColor": "#F54F32",
       "screenshotURLs": [
-        "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png",
-        "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png"
+        "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/SecondHand.png",
+        "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/SecondHand.png"
       ],
       "versions": [
         {
@@ -582,11 +582,11 @@
       "developerName": "netskao",
       "subtitle": "To bring custom ringtones to the iPhone and add them to the official ringtones",
       "localizedDescription": "To bring custom ringtones to the iPhone and add them to the official ringtones",
-      "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/RingTonesManager_TS.png",
+      "iconURL": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/RingTones.png",
       "tintColor": "#F54F32",
       "screenshotURLs": [
-        "https://check0ver.site/wp-content/uploads/2023/11/RingTonesManager_TS.png",
-        "https://check0ver.site/wp-content/uploads/2023/11/RingTonesManager_TS.png"
+        "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/RingTones.png",
+        "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/RingTones.png"
       ],
       "versions": [
         {
@@ -2992,8 +2992,8 @@
       "downloadURL": "https://check0ver.site/wp-content/uploads/2023/12/TrollSpeed_1.8.6.tipa",
       "developerName": "",
       "localizedDescription": "",
-      "icon": "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png",
-      "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png"
+      "icon": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/TrollSpeed.png",
+      "iconURL": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/TrollSpeed.png"
     },
     {
       "name": "AppIndex",
@@ -11030,8 +11030,8 @@
       "downloadURL": "https://check0ver.site/wp-content/uploads/2024/01/Reveil_1.2.3.tipa",
       "developerName": "",
       "localizedDescription": "",
-      "icon": "https://check0ver.site/wp-content/uploads/2024/01/TrollStore-Logo-768x768.jpg.webp",
-      "iconURL": "https://check0ver.site/wp-content/uploads/2024/01/TrollStore-Logo-768x768.jpg.webp"
+      "icon": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/Reveil.png",
+      "iconURL": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/Reveil.png"
     },
     {
       "name": "Darkrise - Pixel Action RPG",
