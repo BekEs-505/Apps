@@ -13687,6 +13687,51 @@
       "localizedDescription": "",
       "icon": "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png",
       "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png"
+    },
+    {
+      "name": "TORBrowser",
+      "bundleID": "ch.b-eng.tor",
+      "bundleIdentifier": "ch.b-eng.tor",
+      "version": "3.4.6",
+      "versionDate": "2024-01-14",
+      "fullDate": "",
+      "size": 79434547,
+      "down": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/TORBrowser_3.4.6_ProFutureUnlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/TORBrowser_3.4.6_ProFutureUnlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with ProFutureUnlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/ch.b-eng.tor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/ch.b-eng.tor.png"
+    },
+    {
+      "name": "SnookerStar",
+      "bundleID": "com.giraffegames.ggpool",
+      "bundleIdentifier": "com.giraffegames.ggpool",
+      "version": "4.9.1",
+      "versionDate": "2024-01-14",
+      "fullDate": "",
+      "size": 76853354,
+      "down": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/SnookerStar_4.9.1_UnlimitedMoneyandCash_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/SnookerStar_4.9.1_UnlimitedMoneyandCash_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with UnlimitedMoneyandCash",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.giraffegames.ggpool.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.giraffegames.ggpool.png"
+    },
+    {
+      "name": "AnimeFLVQuotes",
+      "bundleID": "com.qanime.quotes",
+      "bundleIdentifier": "com.qanime.quotes",
+      "version": "9.1",
+      "versionDate": "2024-01-14",
+      "fullDate": "",
+      "size": 20230179,
+      "down": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/AnimeFLVQuotes_9.1_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/AnimeFLVQuotes_9.1_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.qanime.quotes.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.qanime.quotes.png"
 }
   ],
   "news": [
