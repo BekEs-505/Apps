@@ -407,6 +407,23 @@
       "tintColor": "018084",
       "size": 17230,
       "type": 1
+    },
+    {
+      "name": "AnimeFLVQuotes",
+      "bundleID": "com.qanime.quotes",
+      "bundleIdentifier": "com.qanime.quotes",
+      "version": "9.1",
+      "versionDate": "2024-01-14",
+      "fullDate": "",
+      "size": 20230179,
+      "down": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/AnimeFLVQuotes_9.1_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/AnimeFLVQuotes_9.1_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.qanime.quotes.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.qanime.quotes.png"
+"size": 20230179,
+"type": 1
     }
   ]
 }
