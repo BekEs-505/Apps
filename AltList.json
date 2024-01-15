@@ -1,13 +1,13 @@
 {
-  "name": "Check0ver Team",
-  "identifier": "site.check0ver.repo",
+  "name": "A BekEs | بيكاس ",
+  "identifier": "BekEs-505.github.io/Apps",
   "sourceURL": "https://repo.check0ver.site/",
-  "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/check.png",
-  "website": "https://check0ver.site",
+  "iconURL": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/CydiaIcon.png",
+  "website": "https://BekEs-505.github.io/",
   "subtitle": "TrollStore IPA",
   "META": {
-  "repoName": "Check0ver IPA Repo",
-  "repoIcon": "https://check0ver.site/wp-content/uploads/2023/11/check.png"
+  "repoName": "A BekEs | بيكاس ",
+  "repoIcon": "https://raw.githubusercontent.com/BekEs-505/Apps/main/icons/CydiaIcon.png"
   },
   "apps": [
     {
